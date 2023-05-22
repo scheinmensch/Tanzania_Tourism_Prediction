@@ -1,4 +1,4 @@
-*THIS NOTEBOOK IS WORK IN PROGRESS*
+*THIS PROJECT IS WORK IN PROGRESS, May 2023*
 
 # Zindi Challenge [Tanzania Tourism Prediction](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
