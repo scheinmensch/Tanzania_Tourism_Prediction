@@ -8,6 +8,8 @@ Tanzania’s tourist attractions include the Serengeti plains, which hosts the l
 
 The objective of this hackathon is to develop a machine learning model to predict what a tourist will spend when visiting Tanzania.The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.
 
+The evaluation metric for this competition is Mean Absolute Error.
+
 ## Setup of virtual environment
 
 ```
