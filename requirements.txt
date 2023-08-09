@@ -6,3 +6,4 @@ seaborn==0.12.2
 scikit-learn==1.2.2
 missingno==0.5.2
 kmodes==0.12.2
+scikit-learn == 1.2.2
