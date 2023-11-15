@@ -1,6 +1,6 @@
 *THIS PROJECT IS WORK IN PROGRESS, Nov. 2023*
 
-*In Oct. I decided to redo parts of the EDA/to make it more detailed. When creating the ML model, I discovered that the data was inconsistent and often contradictory. I want to get to the bottom of this before I move on to the model.*
+*Currently working on the model, EDA is finished*
 
 # Zindi Challenge [Tanzania Tourism Prediction](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
