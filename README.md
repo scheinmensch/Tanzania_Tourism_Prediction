@@ -1,8 +1,4 @@
-*THIS PROJECT IS WORK IN PROGRESS, Nov. 2023*
-
-*EDA is finished*
-
-*Currently working on the model, this notebook is still a bit chaotic.*
+*The project has been completed to the extent that I submitted my results to the Zindi Challenge, where I immediately entered the [leaderboard](https://zindi.africa/competitions/tanzania-tourism-prediction/leaderboard) in 27th place. I am very proud of this, as it was the first project where I was completely on my own. Over the next few days, I'll be tidying up my model notebook a bit and commenting on what I've done. Maybe I'll even feel like improving the model a bit more...*
 
 # Zindi Challenge [Tanzania Tourism Prediction](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
