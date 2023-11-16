@@ -1,6 +1,8 @@
 *THIS PROJECT IS WORK IN PROGRESS, Nov. 2023*
 
-*Currently working on the model, EDA is finished*
+*EDA is finished*
+
+*Currently working on the model, this notebook is still a bit chaotic.*
 
 # Zindi Challenge [Tanzania Tourism Prediction](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
