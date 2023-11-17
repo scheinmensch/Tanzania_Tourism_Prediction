@@ -1,13 +1,12 @@
-# function to handle missing data and to make some minor adjustments on the dataset
+''' function to handle missing data and delete ID column '''
+
 def basic_preprocessing_baseline(df):
+    
     # fill NaN total_male/total_female with 0
     df['total_male'] = df['total_male'].fillna(0)
     df['total_female'] = df['total_female'].fillna(0)
     
-    # fill NaN travel_with with "Alone" if total_male plus total_female is one
-    df.loc[df['total_female'] + df['total_male'] == 1, 'travel_with'] = 'Alone'
-    
-    # fill remaining NaN travel_with with missing
+    # fill NaN travel_with with missing
     df['travel_with'] = df['travel_with'].fillna('missing')
     
     # fill NaN most_impressing with "No comments"
@@ -18,7 +17,7 @@ def basic_preprocessing_baseline(df):
     
     return df
 
-# function to handle missing data and to make some adjustments in the data set 
+''' more complete function to handle missing data and to make some adjustments in the data set '''
 
 def adjustments_full(df):
     

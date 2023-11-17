@@ -1,5 +1,3 @@
-*The project has been completed to the extent that I submitted my results to the Zindi Challenge, where I immediately entered the [leaderboard](https://zindi.africa/competitions/tanzania-tourism-prediction/leaderboard) in 27th place. I am very proud of this, as it was the first project where I was completely on my own. Over the next few days, I'll be tidying up my model notebook a bit and commenting on what I've done. Maybe I'll even feel like improving the model a bit more...*
-
 # Zindi Challenge [Tanzania Tourism Prediction](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
 The Tanzanian tourism sector plays a significant role in the Tanzanian economy, contributing about 17% to the country’s GDP and 25% of all foreign exchange revenues. The sector, which provides direct employment for more than 600,000 people and up to 2 million people indirectly, generated approximately $2.4 billion in 2018 according to government statistics. Tanzania received a record 1.1 million international visitor arrivals in 2014, mostly from Europe, the US and Africa.
@@ -21,3 +19,6 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+*The contradictory features in this data set have sometimes brought me to the brink of despair. I spent a lot of time trying to understand them better - this is not even properly reflected in the notebook. 
+Despite everything, in the end I was able to build a model that doesn't perform badly compared to the other entries in the Zindi Challenge. I made it to [27th rank](https://zindi.africa/competitions/tanzania-tourism-prediction/leaderboard) straight away and that's not so bad for a beginner like me.*
